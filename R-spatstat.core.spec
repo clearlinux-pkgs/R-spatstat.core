@@ -4,7 +4,7 @@
 #
 Name     : R-spatstat.core
 Version  : 2.3.2
-Release  : 7
+Release  : 8
 URL      : https://cran.r-project.org/src/contrib/spatstat.core_2.3-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/spatstat.core_2.3-2.tar.gz
 Summary  : Core Functionality of the 'spatstat' Family
@@ -54,10 +54,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1638372764
+export SOURCE_DATE_EPOCH=1641128439
 
 %install
-export SOURCE_DATE_EPOCH=1638372764
+export SOURCE_DATE_EPOCH=1641128439
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
