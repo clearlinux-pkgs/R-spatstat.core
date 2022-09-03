@@ -4,7 +4,7 @@
 #
 Name     : R-spatstat.core
 Version  : 2.4.4
-Release  : 13
+Release  : 14
 URL      : https://cran.r-project.org/src/contrib/spatstat.core_2.4-4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/spatstat.core_2.4-4.tar.gz
 Summary  : Core Functionality of the 'spatstat' Family
